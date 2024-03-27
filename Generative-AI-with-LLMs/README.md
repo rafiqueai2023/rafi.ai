@@ -1,7 +1,6 @@
 # [Generative AI with LLMs](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
 In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.
 
-By taking this course, you'll learn to:
 - Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment
 - Describe in detail the transformer architecture that powers LLMs, how they’re trained, and how fine-tuning enables LLMs to be adapted to a variety of specific use cases
 - Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements
